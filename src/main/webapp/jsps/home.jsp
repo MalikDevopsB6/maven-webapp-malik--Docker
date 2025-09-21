@@ -84,7 +84,7 @@
 <body>
 
 <header>
-    <h1>🚀 Welcome to KK FUNDA SRE Portal 🚀</h1>
+    <h1>🚀 Welcome to MalikHussain Devops,Cloud,SRE and VMware administrator System Engineer Training  Portal 🚀</h1>
     <h3>Training | Development | Consulting</h3>
 </header>
 
@@ -140,11 +140,11 @@
     <!-- Contact Info -->
     <div id="contact-info" class="info-card text-center contact-card">
         <img src="images/kkfunda.jpg" alt="KK FUNDA Logo">
-        <h4>KK FUNDA</h4>
-        <p><b>Address:</b> Martha Halli, Bangalore</p>
-        <p><b>Phone:</b> +91-9676831734</p>
-        <p><b>Email:</b> <a href="mailto:kkeducationblr@gmail.com">kkeducationblr@gmail.com</a></p>
-        <a href="mailto:kkeducation@gmail.com" class="btn btn-custom mt-2">📧 Mail to KK FUNDA</a>
+        <h4>MalikHussain</h4>
+        <p><b>Address:</b> KotaKandukur,Allagadda</p>
+        <p><b>Phone:</b> +91-9916390090</p>
+        <p><b>Email:</b> <a href="mailto:malikkeducationblr@gmail.com">malikeducationblr@gmail.com</a></p>
+        <a href="mailto:malikeducation@gmail.com" class="btn btn-custom mt-2">📧 Mail to KK FUNDA</a>
     </div>
 
     <!-- Service Links -->
